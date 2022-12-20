@@ -2,7 +2,7 @@ function Flights() {
 
     calculateNumberOfFlights()
 
-
+          
 
     return {calculateNumberOfFlights};
 
